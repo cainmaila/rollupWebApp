@@ -1,2 +1,1 @@
-# rollupWebApp
-rollup + Vue2 Web App
+# Rollup + Vue2 Web App 框架
